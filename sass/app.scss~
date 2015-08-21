@@ -1,5 +1,0 @@
-$colour:#EEE;
-
-body{
-background-color:$colour;
-}
