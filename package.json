@@ -1,0 +1,12 @@
+{
+  "name": "basic",
+  "version": "0.0.1",
+  "description": "Playing with NPM & Node",
+  "main": "index.html",
+  "scripts": {
+    "watch-sass": "sass --watch sass/app.scss:css/app.css",
+    "watch-js": "watchify src/js/app.js -o dist/js/app.js -dv"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
